@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I like to create utilities that make my life easier.
+
 <!--
 **patrickjmcd/patrickjmcd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
