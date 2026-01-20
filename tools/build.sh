@@ -14,6 +14,7 @@ pandoc "$SRC" \
   --standalone \
   --metadata pagetitle="Patrick J. McDonagh — Resume" \
   --css "$CSS" \
+  --lua-filter "$ROOT/tools/pdf-filter.lua" \
   -o "$OUT/resume.html"
 
 

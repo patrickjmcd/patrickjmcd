@@ -9,7 +9,7 @@ Experienced engineer with 10+ years designing, scaling, and operating cloud-nati
 
 ---
 
-## Technical Leadership & Impact
+## Technical Leadership & Impact  <!-- pdf-exclude -->
 - Owned and evolved platform-critical services supporting security-sensitive data at scale
 - Led architectural migrations from serverless to Kubernetes across multi-team systems
 - Set engineering standards for APIs, data models, and developer experience
@@ -18,7 +18,7 @@ Experienced engineer with 10+ years designing, scaling, and operating cloud-nati
 
 ---
 
-## Systems Philosophy
+## Systems Philosophy  <!-- pdf-exclude -->
 - Design services to do as few things as possible, favoring clear boundaries over over-complication
 - Treat product and engineering as a single problem-solving partnership with shared ownership of outcomes
 - Build minimum lovable products (instead of minimum viable products) through rapid prototyping, frequent stakeholder feedback, and iterative refinement
@@ -56,12 +56,12 @@ Nov 2014 – Aug 2018 · Remote
 - Designed control systems and analytics platforms for industrial production environments
 - Delivered full-stack systems across embedded, backend, and UI layers
 
-### Rockwell Automation — Field Service Engineer
+### Rockwell Automation — Field Service Engineer  <!-- pdf-exclude -->
 Apr 2013 – Nov 2014 · Dallas, TX
 - Delivered PLC, HMI, and VFD solutions for industrial automation and water filtration systems
 - Executed legacy system migrations and on-site commissioning
 
-### Barry-Wehmiller Design Group — Electrical Engineer
+### Barry-Wehmiller Design Group — Electrical Engineer  <!-- pdf-exclude -->
 Jun 2011 – Apr 2013 · St. Louis, MO
 - Led manufacturing control projects, including virtualization of production servers for large-scale facilities
 
