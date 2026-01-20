@@ -2,12 +2,8 @@
 
 patrickmcd@gmail.com · Remote (US) · [GitHub](https://github.com/patrickjmcd) · [LinkedIn](https://linkedin.com/in/patrickmcdonagh)
 
----
-
 ## Executive Summary
 Experienced engineer with 10+ years designing, scaling, and operating cloud-native and IoT platforms. Proven track record owning critical systems, leading cross-team technical initiatives, and improving reliability, security, and developer productivity. Deep expertise in Go, JavaScript/TypeScript, AWS, Kubernetes, and distributed systems, with strong product intuition.
-
----
 
 ## Technical Leadership & Impact  <!-- pdf-exclude -->
 - Owned and evolved platform-critical services supporting security-sensitive data at scale
@@ -16,15 +12,11 @@ Experienced engineer with 10+ years designing, scaling, and operating cloud-nati
 - Worked across product, infrastructure, and security boundaries to deliver reliable systems
 - Mentored engineers and served as escalation point for complex system issues
 
----
-
 ## Systems Philosophy  <!-- pdf-exclude -->
 - Design services to do as few things as possible, favoring clear boundaries over over-complication
 - Treat product and engineering as a single problem-solving partnership with shared ownership of outcomes
 - Build minimum lovable products (instead of minimum viable products) through rapid prototyping, frequent stakeholder feedback, and iterative refinement
 - Great-functioning products with poor design are often experienced as bad products by non-technical users
-
----
 
 ## Experience
 
@@ -65,8 +57,6 @@ Apr 2013 – Nov 2014 · Dallas, TX
 Jun 2011 – Apr 2013 · St. Louis, MO
 - Led manufacturing control projects, including virtualization of production servers for large-scale facilities
 
----
-
 ## Skills and Domains
 **Languages:** Go, JavaScript/TypeScript, Python, SQL  
 **Cloud and Infrastructure:** AWS, Kubernetes, Knative, Terraform, Serverless  
@@ -74,8 +64,6 @@ Jun 2011 – Apr 2013 · St. Louis, MO
 **Security:** Data privacy, secrets management, secure data pipelines  
 **Controls and Physical Systems:** PLC and industrial automation systems; HMI and SCADA design and implementation; real-time and safety-critical system constraints; hardware–software integration, field reliability, and remote monitoring  
 **Leadership:** Technical strategy, cross-team collaboration, mentorship
-
----
 
 ## Education
 **B.S. in Electrical Engineering**  
