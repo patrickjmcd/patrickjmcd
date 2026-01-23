@@ -1,6 +1,6 @@
 # Patrick J. McDonagh
 
-patrickmcd@gmail.com · Remote (US) · [GitHub](https://github.com/patrickjmcd) · [LinkedIn](https://linkedin.com/in/patrickmcdonagh)
+patrickjmcd@gmail.com · Remote (US) · [GitHub](https://github.com/patrickjmcd) · [LinkedIn](https://linkedin.com/in/patrickmcdonagh)
 
 ## Executive Summary
 Experienced engineer with 10+ years designing, scaling, and operating cloud-native and IoT platforms. Proven track record owning critical systems, leading cross-team technical initiatives, and improving reliability, security, and developer productivity. Deep expertise in Go, JavaScript/TypeScript, AWS, Kubernetes, and distributed systems, with strong product intuition.
